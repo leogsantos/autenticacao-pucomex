@@ -1,3 +1,9 @@
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/leogsantos/autenticacao-pucomex/main?style=flat-square&label=Total%20Commits)
+![GitHub repo size](https://img.shields.io/github/repo-size/leogsantos/autenticacao-pucomex?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/leogsantos/autenticacao-pucomex?style=flat-square)
+
+
+
 # Documentação do Código
 
 Código em python para retornar a autenticação necessária para todas as requisições dentro do catálogo de APIs do Portal único de Comércio Exterior.
